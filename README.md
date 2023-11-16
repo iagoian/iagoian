@@ -22,4 +22,5 @@
 
 <div>
  <a href="https://www.linkedin.com/in/iago-ian/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="https://www.dio.me/users/iagoian23" target="_blank"><img src="https://img.shields.io/badge/DIO-8c37dc?style=for-the-badge&logo=dio&logoColor=white"></a>
 </div>
